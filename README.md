@@ -13,8 +13,8 @@ To write a python program for reading content from a CSV file
 
 ## PROGRAM:
 ```
-# Developed by: PREM.R
-# Register Number: 23002486
+# Developed by: PRADEEP V
+# Register Number: 23013543
 import pandas as pd
 df = pd.read_csv('pandascsv.csv')
 print(df.head(10))
